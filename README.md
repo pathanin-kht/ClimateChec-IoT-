@@ -9,9 +9,9 @@ ClimateCheck is my first IoT project at Khon Kaen University, developed between 
 - **Data Visualization:** Looker Studio
 
 ## Setup Instructions
-1. Set up the **ESP32** with **DHT11** sensor.
-2. Install required libraries (DHT, WiFi, Google Sheets API).
-3. Set up **Google Sheets** and configure API.
+1. Set up **ESP32** and connect the **DHT11** sensor.
+2. Install libraries: DHT, Wi-Fi, Google Sheets API.
+3. Set up **Google Sheets** and **Google Apps Script**.
 4. Upload the code to the board.
 
 > **Note:** Line Notify service has been discontinued, so an alternative notification service may be used for alerts.
